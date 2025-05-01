@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 subgraph App Component
@@ -28,3 +29,4 @@ A1 --> A5
 A5 --> C1 --> C2
 C2 --> C3
 C3 -->|Click triggers| C1
+```
